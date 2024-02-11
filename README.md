@@ -1,5 +1,9 @@
-### Hi there 👋
+<h2 align="center">
+  <b>Hi there 👋 </b>
+  <b>I'm Riddhi Tharewal</b>
+</h2>
 
+# I am a Software Engineer at Microsoft
 <!--
 **RiddhiTharewal/RiddhiTharewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
